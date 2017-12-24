@@ -13,6 +13,7 @@ Zend Engine v3.0.0, Copyright (c) 1998-2017 Zend Technologies
 
 Modificacion del PHP.INI
 cp /etc/php/7.0/apache2/php.ini /etc/php/7.0/apache2/php.ini.bak
+
 vim /etc/php/7.0/apache2/php.ini
 disable_functions =
 date.timezone = Amercia/Caracas   ## Soy de Venezuela
